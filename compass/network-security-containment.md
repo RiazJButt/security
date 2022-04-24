@@ -16,11 +16,13 @@ These do diminish the role of network security controls, but do not eliminate it
 
 In the category of network security and containment, we have the following best practice recommendations:
 
-- Align network segmentation with overall strategy
-
 - Centralize network management and security
 
-- Build a network containment strategy
+- Align network segmentation with overall strategy
+
+- Evolve security beyond network controls
+
+- Build a network security containment strategy
 
 - Define an internet edge strategy
 
@@ -39,7 +41,7 @@ Align your network segmentation model with the enterprise segmentation model for
 
 This will reduce confusion and resulting challenges with different technical teams (networking, identity, applications, etc.) each developing their own segmentation and delegation models that don’t align with each other. This leads to a straightforward and unified security strategy, which helps reduce the number of errors due to human error and inability to increase reliability through automation.
 
-Please compare images in [Network security and containment](/azure/architecture/security/governance#enterprise-segmentation-strategy).
+Please compare images in [Network security and containment](https://docs.microsoft.com/en-us/azure/architecture/browse/?expanded=azure&filter-products=sec&azure_categories=security&terms=Network).
 
 ![image showing hybrid cloud infrastructure-network architecture](images/ref-entp-design-az-network-security.png)
 
