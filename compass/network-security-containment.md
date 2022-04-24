@@ -51,7 +51,7 @@ As organizations shift to modern architectures, many services and components req
 
 Build a risk containment strategy based on a combination of network controls and application, identity, and other control types.
 
-- Ensure that resource grouping and administrative privileges align to the segmentation model (see figure XXXX)
+- Ensure that resource grouping and administrative privileges align to the segmentation model (see figure XXXX) - Please update the figure information.
 
 - Ensure you are designing security controls that identify and allow expected traffic, access requests, and other application communications between segments. Monitor communications between segments to identify on any unexpected communications so you can investigate whether to set alerts or block traffic to mitigate risk of adversaries crossing segmentation boundaries.
 
